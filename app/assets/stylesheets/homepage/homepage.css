@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  width: auto;
+  text-align: center;
+}
+
+li {
+  display:inline;
+  padding-right: 10px;
+}
+
+ul a {
+  text-decoration: none;
+  color: #666;
+
+}
+
+ul a:hover {
+  text-decoration: underline;
+  color: black;
+}

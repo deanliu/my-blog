@@ -36,3 +36,9 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+gem "haml"
+
+# use ActiveAdmin
+gem 'activeadmin'
+gem 'meta_search',' >= 1.1.0.pre'
